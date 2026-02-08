@@ -1,10 +1,3 @@
-
-💡 **Tip:** Replace the GIF links with your own recorded demo for more professionalism.
-
----
-
-# 📁 2️⃣ `LICENSE` (MIT)
-
 Create `LICENSE` file:
 
 ```text
