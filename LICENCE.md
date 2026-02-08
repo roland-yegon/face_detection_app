@@ -1,5 +1,3 @@
-Create `LICENSE` file:
-
 ```text
 MIT License
 
