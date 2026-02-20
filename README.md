@@ -37,6 +37,12 @@ face_detection_app/
 
 ---
 
+## Know more about the project
+
+https://about-face-detector.netlify.app/
+
+---
+
 ## 🚀 Setup
 
 ### 1. Clone the repository
