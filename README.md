@@ -42,7 +42,7 @@ face_detection_app/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/face-detection-app.git
+git clone https://github.com/roland-yegon/face-detection-app.git
 cd face-detection-app
 ```
 
